@@ -1,4 +1,4 @@
 # node-server-jwt
 
-## Reference for basic node sever with JWT Authentication
+## Reference for basic node server with JWT Authentication
 ### Node JS, Express
